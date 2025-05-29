@@ -16,6 +16,7 @@
  使用方式: select * from table where id = 1 for update; 
  ```
  **效果**
+ - 
 
 
  **实验**
