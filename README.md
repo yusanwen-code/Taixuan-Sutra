@@ -13,4 +13,4 @@
 
 
 ## 学习交流
-![alt text](image.png)
+![alt text](About/image.png)
